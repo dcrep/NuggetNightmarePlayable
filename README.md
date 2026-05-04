@@ -15,3 +15,11 @@ Playable @ [https://github.com/dcrep/NuggetNightmarePlayable](https://dcrep.gith
 - Ian N - UI, Level Design
 
 Source at https://github.com/dcrep/NuggetNightmare
+
+Goals: Scare the guests just enough! Get their scare-meter to the sweet-spot in the middle
+
+Buy one of 2 attractions, click and drag to a location. Escape to pause. Scroll-wheel to zoom. Right-click and drag to look around.
+
+Shortcut keys: 1, 2 buys the first, second attraction.
+
+Super-secret speed-adjust keys: [, ] square brackets (unfortunately changes attraction behavior and win/lose conditions)
